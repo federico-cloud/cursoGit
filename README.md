@@ -1,7 +1,8 @@
 # Objetivos de la repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Poner en practica lo aprendido en el curso de Fernando Herera
 
+# Link al curso
 
-## Notas
-Pueden hacer lo que quieran...
+https://www.udemy.com/course/git-github/
+
