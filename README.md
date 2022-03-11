@@ -6,6 +6,6 @@ Poner en practica lo aprendido en el curso de Fernando Herera
 
 https://www.udemy.com/course/git-github/
 
-### Actualizado desde github
+### Estos cambios son nuevos
 
-Este es un mensaje desde github
+cambios...
